@@ -1,4 +1,4 @@
-#mgwls
+# mgwls
 
 Merge wordlists
 
