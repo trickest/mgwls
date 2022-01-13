@@ -11,7 +11,7 @@ import (
 
 func main() {
 	baseWord := flag.String("w", "", "Single word to use for concatenation")
-	left := flag.Bool("left", true, "Flag that determines the side of the single word")
+	side := flag.String("side", "left", "String that determines the side of the single word")
 	leftWordlistFileName := flag.String("l", "", "Wordlist file (left side)")
 	rightWordlistFileName := flag.String("r", "", "Wordlist file (right side)")
 	output := flag.String("o", "", "Output file (optional)")
@@ -32,11 +32,16 @@ func main() {
 		os.Exit(1)
 	}
 
+	if *side != "left" && *side != "right" {
+		fmt.Println("Side flag must be left or right!")
+		os.Exit(0)
+	}
+
 	leftWordlist := make([]string, 0)
 	rightWordlist := make([]string, 0)
 
 	if *baseWord != "" {
-		if *left {
+		if *side == "left" {
 			leftWordlist = append(leftWordlist, *baseWord)
 		} else {
 			rightWordlist = append(rightWordlist, *baseWord)
