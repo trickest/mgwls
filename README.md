@@ -52,7 +52,7 @@ c
 ```
 
 ```shell script
->  go run main.go -l left.txt -w foo -left=false
+>  go run main.go -l left.txt -w foo -side right
 1foo
 2foo
 3foo
