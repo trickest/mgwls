@@ -10,8 +10,8 @@ Usage of mgwls:
         String delimiter to place between words
   -l string
         Wordlist file (left side)
-  -left
-        Flag that determines the side of the single word (default true)
+  -side
+        Flag that determines the side of the single word
   -o string
         Output file (optional)
   -r string
