@@ -1,3 +1,3 @@
-module mgwls
+module github.com/trickest/mgwls
 
-go 1.17
+go 1.18
