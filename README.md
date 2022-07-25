@@ -71,9 +71,9 @@ c
 ```
 
 # Report Bugs / Feedback
-We look forward to any feedback you want to share with us or if you're stuck with a problem you can contact us at [support@trickest.com](mailto:support@trickest.com). You can also create an [Issue](https://github.com/trickest/dsieve/issues/new) or pull request on the Github repository.
+We look forward to any feedback you want to share with us or if you're stuck with a problem you can contact us at [support@trickest.com](mailto:support@trickest.com). You can also create an [Issue](https://github.com/trickest/mgwls/issues/new) or pull request on the Github repository.
 
 # Where does this fit in your methodology?
-Dsieve is an integral part of many workflows in the Trickest store. Sign up on [trickest.com](https://trickest.com) to get access to these workflows or build your own from scratch!
+Mgwls is an integral part of many workflows in the Trickest store. Sign up on [trickest.com](https://trickest.com) to get access to these workflows or build your own from scratch!
 
 [<img src="./banner.png" />](https://trickest-access.paperform.co/)
