@@ -1,4 +1,4 @@
-<h1 align="center">mgwls <a href="https://twitter.com/intent/tweet?text=mgwls%20-%20Combine%20words%20from%20two%20wordlist%20files%20and%20concatenate%20them%20with%20an%20optional%20delimiter%20https%3A%2F%2Fgithub.com%2Ftrickest%2Fmgwls&hashtags=bugbounty,bugbountytips,infosec"><img src="https://img.shields.io/badge/Tweet--lightgrey?logo=twitter&style=social" alt="Tweet" height="20"/></a></h1>
+<h1 align="center">mgwls <a href="https://twitter.com/intent/tweet?text=mgwls%20-%20Combine%20words%20from%20two%20wordlist%20files%20and%20concatenate%20them%20with%20an%20optional%20delimiter%20%40trick3st%0Ahttps%3A%2F%2Fgithub.com%2Ftrickest%2Fmgwls&hashtags=bugbounty,bugbountytips,infosec"><img src="https://img.shields.io/badge/Tweet--lightgrey?logo=twitter&style=social" alt="Tweet" height="20"/></a></h1>
 <h3 align="center">Merge wordlists</h3>
 
 ![mgwls](mgwls.png "mgwls")
